@@ -49,7 +49,7 @@ def process_xml_to_srt(xml_data):
 
 # --- UI Layout / 웹 화면 구성 ---
 st.set_page_config(
-    page_title="FREE FCPXML to SRT Converter | Final Cut Pro Subtitles", 
+    page_title="FREE FCPXML to SRT Converter | Final Cut Pro titles to captions | 파이널컷 타이틀 자막 변환 ", 
     page_icon="🎬",
     initial_sidebar_state="collapsed"
 )
