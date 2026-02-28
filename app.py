@@ -88,7 +88,7 @@ if uploaded_file is not None:
 # --- Donation Section / 후원 섹션 ---
 st.markdown("---")
 st.write("☕ **Support this project / 제작자 후원하기**")
-st.write("If this tool saved your time, consider buying me a coffee!" / 커피 한 잔 사주세요 선배!)
+st.write("If this tool saved your time, consider buying me a coffee! / 커피 한 잔 사주세요 누나!")
 
 # 'yourid' 부분을 본인의 Buy Me a Coffee 아이디로 꼭 수정하세요!
 bmc_link = "https://www.buymeacoffee.com/jeong27" 
